@@ -722,6 +722,18 @@ Open an [issue](https://github.com/Shivasai132678/telugu-desktop-ai-assistant/is
 
 ---
 
+## 👥 Contributors
+
+| Name | GitHub |
+|------|--------|
+| Shiva Sai Karthikeya Vemula | [@Shivasai132678](https://github.com/Shivasai132678) |
+| K.M. Sreenidhi | [@sreenidhi-km](https://github.com/sreenidhi-km) |
+| Bade Vignan Karthikeya | [@Vignan2659](https://github.com/Vignan2659) |
+
+Original repository: [Shivasai132678/telugu-desktop-ai-assistant](https://github.com/Shivasai132678/telugu-desktop-ai-assistant)
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — you're free to use, modify, and distribute it. See the [LICENSE](LICENSE) file for details.
